@@ -1,0 +1,10 @@
+D:\Work\GitHub\Windows Forms\AudioPlayer\AudioPlayer\bin\x86\Debug\AudioPlayer.exe.config
+D:\Work\GitHub\Windows Forms\AudioPlayer\AudioPlayer\bin\x86\Debug\AudioPlayer.exe
+D:\Work\GitHub\Windows Forms\AudioPlayer\AudioPlayer\bin\x86\Debug\AudioPlayer.pdb
+D:\Work\GitHub\Windows Forms\AudioPlayer\AudioPlayer\obj\x86\Debug\AudioPlayer.Form1.resources
+D:\Work\GitHub\Windows Forms\AudioPlayer\AudioPlayer\obj\x86\Debug\AudioPlayer.Properties.Resources.resources
+D:\Work\GitHub\Windows Forms\AudioPlayer\AudioPlayer\obj\x86\Debug\AudioPlayer.csproj.GenerateResource.Cache
+D:\Work\GitHub\Windows Forms\AudioPlayer\AudioPlayer\obj\x86\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+D:\Work\GitHub\Windows Forms\AudioPlayer\AudioPlayer\obj\x86\Debug\AudioPlayer.exe
+D:\Work\GitHub\Windows Forms\AudioPlayer\AudioPlayer\obj\x86\Debug\AudioPlayer.pdb
+D:\Work\GitHub\Windows Forms\AudioPlayer\AudioPlayer\obj\x86\Debug\AudioPlayer.csprojResolveAssemblyReference.cache
